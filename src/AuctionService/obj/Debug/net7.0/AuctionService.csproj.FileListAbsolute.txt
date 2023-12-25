@@ -37,3 +37,10 @@ C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionServ
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\System.CodeDom.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\MassTransit.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Contracts.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Contracts.pdb
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\MassTransit.EntityFrameworkCoreIntegration.dll

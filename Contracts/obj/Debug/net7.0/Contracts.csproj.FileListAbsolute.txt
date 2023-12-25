@@ -1,0 +1,12 @@
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\bin\Debug\net7.0\Contracts.deps.json
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\bin\Debug\net7.0\Contracts.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\bin\Debug\net7.0\Contracts.pdb
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\obj\Debug\net7.0\Contracts.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\obj\Debug\net7.0\Contracts.pdb
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\obj\Debug\net7.0\ref\Contracts.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
