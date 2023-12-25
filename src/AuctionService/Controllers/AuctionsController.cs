@@ -74,8 +74,6 @@ public class AuctionsController : ControllerBase
     }
 
 
-
-
     [HttpPut("{id}")]
     public async Task<ActionResult> UpdateAction(Guid id, UpdateAuctionDto updateAuctionDto)
     {
@@ -109,7 +107,7 @@ public class AuctionsController : ControllerBase
 
         context.Auctions.Remove(auction);
 
-        await publishEndpoint.Publish(mapper.Map<AuctionDeleted>(auction));
+        await publishEndpoint.Publish<AuctionDeleted>(new { Id = auction.Id.ToString()});
 
         var result = await context.SaveChangesAsync() > 0;
 

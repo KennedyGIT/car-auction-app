@@ -31,6 +31,9 @@ namespace SearchService.Consumers
                     x.Mileage
                 }, item)
                 .ExecuteAsync();
+
+            if(!result.IsAcknowledged)
+                throw new MessageException(typeof(AuctionUpdated), "Problem updating mongodb");
         }
     }
 }
