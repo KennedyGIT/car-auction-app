@@ -5,6 +5,7 @@ using AutoMapper;
 using AutoMapper.QueryableExtensions;
 using Contracts;
 using MassTransit;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -52,13 +53,12 @@ public class AuctionsController : ControllerBase
     }
 
     [HttpPost]
+    [Authorize]
     public async Task<ActionResult<AuctionDto>> CreateAuction(CreateAuctionDto auctionDto)
     {
         var auction = mapper.Map<Auction>(auctionDto);
 
-        //TODO : add current user as seller
-
-        auction.Seller = "test";
+        auction.Seller = User.Identity.Name;
 
         context.Auctions.Add(auction);
 
@@ -82,6 +82,8 @@ public class AuctionsController : ControllerBase
 
         if(auction == null) return NotFound();
 
+        if (auction.Seller != User.Identity.Name) return Forbid();
+
         auction.Item.Make = updateAuctionDto.Make ?? auction.Item.Make;
         auction.Item.Model = updateAuctionDto.Model ?? auction.Item.Model;
         auction.Item.Color = updateAuctionDto.Color ?? auction.Item.Color;
@@ -104,6 +106,8 @@ public class AuctionsController : ControllerBase
         var auction = await context.Auctions.FindAsync(id);
 
         if (auction == null) return NotFound();
+
+        if (auction.Seller != User.Identity.Name) return Forbid();
 
         context.Auctions.Remove(auction);
 

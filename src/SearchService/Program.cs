@@ -37,7 +37,6 @@ builder.Services.AddMassTransit(x =>
     });
 });
 
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
 var app = builder.Build();
 

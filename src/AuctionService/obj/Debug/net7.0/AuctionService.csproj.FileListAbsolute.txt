@@ -44,3 +44,10 @@ C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionServ
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Contracts.dll
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Contracts.pdb
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\MassTransit.EntityFrameworkCoreIntegration.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\AuctionService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
