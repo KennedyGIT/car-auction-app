@@ -34,3 +34,4 @@ C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayServ
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.pdb
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.genruntimeconfig.cache
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\ref\GatewayService.dll
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.sourcelink.json

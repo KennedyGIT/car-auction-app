@@ -4,20 +4,22 @@
     "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\AuctionService\\AuctionService.csproj": {}
   },
   "projects": {
-    "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\Contracts\\Contracts.csproj": {
+    "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\AuctionService\\AuctionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\Contracts\\Contracts.csproj",
-        "projectName": "Contracts",
-        "projectPath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\AuctionService\\AuctionService.csproj",
+        "projectName": "AuctionService",
+        "projectPath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\AuctionService\\AuctionService.csproj",
         "packagesPath": "C:\\Users\\Kenmb\\.nuget\\packages\\",
-        "outputPath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\Contracts\\obj\\",
+        "outputPath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\AuctionService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Kenmb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,68 +33,6 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\AuctionService\\AuctionService.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\AuctionService\\AuctionService.csproj",
-        "projectName": "AuctionService",
-        "projectPath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\AuctionService\\AuctionService.csproj",
-        "packagesPath": "C:\\Users\\Kenmb\\.nuget\\packages\\",
-        "outputPath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\AuctionService\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Kenmb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {
-              "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\Contracts\\Contracts.csproj"
-              }
-            }
           }
         },
         "warningProperties": {
@@ -141,6 +81,10 @@
               "target": "Package",
               "version": "[7.0.11, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[7.0.11, )"
@@ -165,7 +109,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

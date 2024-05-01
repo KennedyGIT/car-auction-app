@@ -59,7 +59,6 @@ C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\SearchServi
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\SearchService\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\SearchService\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
-C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\SearchService\bin\Debug\net7.0\System.Text.Json.dll
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\SearchService\bin\Debug\net7.0\Contracts.dll
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\SearchService\bin\Debug\net7.0\Contracts.pdb
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\SearchService\obj\Debug\net7.0\SearchService.sourcelink.json

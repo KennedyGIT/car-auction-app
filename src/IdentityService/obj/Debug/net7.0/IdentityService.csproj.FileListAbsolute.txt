@@ -69,3 +69,4 @@ C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\IdentitySer
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\IdentityService\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\IdentityService\bin\Debug\net7.0\System.CodeDom.dll
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\IdentityService\bin\Debug\net7.0\keys\is-signing-key-E532C4AC8B5C2E1F6305943DB28844F2.json
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\IdentityService\obj\Debug\net7.0\IdentityService.sourcelink.json
