@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JUM743F0jBEFftqA2fpeCF/SrlnEXBDxBL2jCA53v25B568mnpGiLgiQTgdPEcsld5Q2qfNVOwhBh49udY+4AQ==",
+  "dgSpecHash": "wgRJJgweD9xKPssLJcQurdoTDDKnb21TS9lHzbCrGffuOrLdxwTbmud9uKWykMHkiyIomaP21xL0/5d9NcbwaA==",
   "success": true,
   "projectFilePath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\SearchService\\SearchService.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\Kenmb\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Kenmb\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\mongodb.bson\\2.23.0\\mongodb.bson.2.23.0.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\mongodb.driver\\2.23.0\\mongodb.driver.2.23.0.nupkg.sha512",

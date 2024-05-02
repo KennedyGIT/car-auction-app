@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "agmGzZtB74wiUO0N6pKJcJI+dBlu2KJZkYVZNVfbBa+OKXkJSX988FQ6m7JC3Fosfcu0U4v4KCN6f8+DaXV14A==",
+  "dgSpecHash": "mCof7Exkls+Zojd5KGcWmm7Do44rd3hMUMcXz1n8K8KzG/O6Ds1Ek9Nn7KsSJQrFSVr/YqmOlLFOkV7X5Yk9Kg==",
   "success": true,
   "projectFilePath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\IdentityService\\IdentityService.csproj",
   "expectedPackageFiles": [
@@ -47,6 +47,7 @@
     "C:\\Users\\Kenmb\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\Kenmb\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",

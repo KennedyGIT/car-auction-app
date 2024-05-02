@@ -20,13 +20,14 @@ C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayServ
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.AssemblyInfo.cs
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.csproj.CoreCompileInputs.cache
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.MvcApplicationPartsAssemblyInfo.cache
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.sourcelink.json
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets.build.json
+C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets.development.json
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets\msbuild.GatewayService.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets\msbuild.build.GatewayService.props
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GatewayService.props
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GatewayService.props
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets.build.json
-C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets.development.json
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\scopedcss\bundle\GatewayService.styles.css
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.csproj.CopyComplete
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.dll
@@ -34,4 +35,3 @@ C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayServ
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.pdb
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.genruntimeconfig.cache
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\ref\GatewayService.dll
-C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.sourcelink.json

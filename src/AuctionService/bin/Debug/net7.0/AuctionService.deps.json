@@ -9,6 +9,7 @@
       "AuctionService/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "Contracts": "1.0.0",
           "MassTransit": "8.0.16",
           "MassTransit.EntityFrameworkCore": "8.0.16",
           "MassTransit.RabbitMQ": "8.0.16",
@@ -17,8 +18,7 @@
           "Microsoft.EntityFrameworkCore.Design": "7.0.11",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.11",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.19.5",
-          "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.11",
-          "Contracts": "1.0.0.0"
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.11"
         },
         "runtime": {
           "AuctionService.dll": {}
@@ -391,12 +391,9 @@
         }
       },
       "System.Threading.Channels/7.0.0": {},
-      "Contracts/1.0.0.0": {
+      "Contracts/1.0.0": {
         "runtime": {
-          "Contracts.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Contracts.dll": {}
         }
       }
     }
@@ -757,8 +754,8 @@
       "path": "system.threading.channels/7.0.0",
       "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
     },
-    "Contracts/1.0.0.0": {
-      "type": "reference",
+    "Contracts/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     }
