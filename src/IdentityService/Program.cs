@@ -5,7 +5,7 @@ Log.Logger = new LoggerConfiguration()
     .WriteTo.Console()
     .CreateBootstrapLogger();
 
-Log.Information("Starting up");
+Log.Debug("Starting up");
 
 try
 {
