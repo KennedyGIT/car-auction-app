@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/react": "^18.3.1",
+    "react-countdown": "^2.3.5"
+  }
+}
