@@ -1,6 +1,6 @@
 'use client'
 import React from 'react';
-import Countdown from 'react-countdown';
+import Countdown, { zeroPad } from 'react-countdown';
 
 type Props = {
     auctionEnd: string
@@ -21,7 +21,7 @@ const renderer = ({days, hours, minutes, seconds, completed}:
         `}>
               {completed ? (
               <span>Auction finished</span>) : (
-                <span>{days}:{hours}:{minutes}:{seconds}</span>
+                <span>{ zeroPad(days)}:{zeroPad(hours)}:{zeroPad(minutes)}:{zeroPad(seconds)}</span>
             )}
         </div>
     )

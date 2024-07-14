@@ -2643,11 +2643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\IdentityService\\IdentityService.csproj",
+      "projectUniqueName": "C:\\Kennedy Projects\\Self Development\\Micro-services and Cloud\\car-auction-app\\src\\IdentityService\\IdentityService.csproj",
       "projectName": "IdentityService",
-      "projectPath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\IdentityService\\IdentityService.csproj",
+      "projectPath": "C:\\Kennedy Projects\\Self Development\\Micro-services and Cloud\\car-auction-app\\src\\IdentityService\\IdentityService.csproj",
       "packagesPath": "C:\\Users\\Kenmb\\.nuget\\packages\\",
-      "outputPath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\IdentityService\\obj\\",
+      "outputPath": "C:\\Kennedy Projects\\Self Development\\Micro-services and Cloud\\car-auction-app\\src\\IdentityService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

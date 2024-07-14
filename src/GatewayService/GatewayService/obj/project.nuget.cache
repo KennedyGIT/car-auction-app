@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x4nwymzMNBlaEctGtchudt56XEI7HxbKilAhjwR1HyzQRKGk84BQx1gzeb+HhAKShVvn6MKrhwSSv7Wk+ueTDA==",
+  "dgSpecHash": "XfnO/V9OlY8BgxB0RpOsqcii+XZMdRuf4XEf41KcJEIMahjdIGGV/NyFny4s85mmZStnoN58Sfu7eXyQHkv+3A==",
   "success": true,
-  "projectFilePath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\GatewayService\\GatewayService\\GatewayService.csproj",
+  "projectFilePath": "C:\\Kennedy Projects\\Self Development\\Micro-services and Cloud\\car-auction-app\\src\\GatewayService\\GatewayService\\GatewayService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenmb\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.11\\microsoft.aspnetcore.authentication.jwtbearer.7.0.11.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

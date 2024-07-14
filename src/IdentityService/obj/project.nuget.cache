@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mCof7Exkls+Zojd5KGcWmm7Do44rd3hMUMcXz1n8K8KzG/O6Ds1Ek9Nn7KsSJQrFSVr/YqmOlLFOkV7X5Yk9Kg==",
+  "dgSpecHash": "6H+4nro98NNcNsYmBdM5+4lYPLt4yQN5zGBxMQYauudoIXy8j45mP6oS9/4YJpzog2qoUKHiF9DNiQAwZ7HnuQ==",
   "success": true,
-  "projectFilePath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\IdentityService\\IdentityService.csproj",
+  "projectFilePath": "C:\\Kennedy Projects\\Self Development\\Micro-services and Cloud\\car-auction-app\\src\\IdentityService\\IdentityService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenmb\\.nuget\\packages\\duende.identityserver\\6.3.2\\duende.identityserver.6.3.2.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\duende.identityserver.aspnetidentity\\6.3.2\\duende.identityserver.aspnetidentity.6.3.2.nupkg.sha512",

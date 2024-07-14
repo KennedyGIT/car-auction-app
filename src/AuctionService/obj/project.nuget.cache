@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZNZF/lcxWuWubRAzrTwURwrI+7kiMycDmIrPYmLzlkMYKj9gXq6HnftpT2QanBTsXz0VxeQ9vJSYtjrcirIakw==",
+  "dgSpecHash": "MMOIyXd6DrUfrOCODFLW0rkJZegSzL33jW/OThCyzMq0IW5DecdRiXnL4zOW2m8Z1d72hgXNmxB2MBHtvVPFDg==",
   "success": true,
-  "projectFilePath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\AuctionService\\AuctionService.csproj",
+  "projectFilePath": "C:\\Kennedy Projects\\Self Development\\Micro-services and Cloud\\car-auction-app\\src\\AuctionService\\AuctionService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenmb\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Kenmb\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

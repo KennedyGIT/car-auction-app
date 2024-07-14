@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\GatewayService\\GatewayService\\GatewayService.csproj": {}
+    "C:\\Kennedy Projects\\Self Development\\Micro-services and Cloud\\car-auction-app\\src\\GatewayService\\GatewayService\\GatewayService.csproj": {}
   },
   "projects": {
-    "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\GatewayService\\GatewayService\\GatewayService.csproj": {
+    "C:\\Kennedy Projects\\Self Development\\Micro-services and Cloud\\car-auction-app\\src\\GatewayService\\GatewayService\\GatewayService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\GatewayService\\GatewayService\\GatewayService.csproj",
+        "projectUniqueName": "C:\\Kennedy Projects\\Self Development\\Micro-services and Cloud\\car-auction-app\\src\\GatewayService\\GatewayService\\GatewayService.csproj",
         "projectName": "GatewayService",
-        "projectPath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\GatewayService\\GatewayService\\GatewayService.csproj",
+        "projectPath": "C:\\Kennedy Projects\\Self Development\\Micro-services and Cloud\\car-auction-app\\src\\GatewayService\\GatewayService\\GatewayService.csproj",
         "packagesPath": "C:\\Users\\Kenmb\\.nuget\\packages\\",
-        "outputPath": "C:\\Kennedy Projects\\Self Development\\kennedy_git\\car-auction-app\\src\\GatewayService\\GatewayService\\obj\\",
+        "outputPath": "C:\\Kennedy Projects\\Self Development\\Micro-services and Cloud\\car-auction-app\\src\\GatewayService\\GatewayService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
