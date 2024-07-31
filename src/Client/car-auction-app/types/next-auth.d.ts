@@ -8,11 +8,17 @@ declare module 'next-auth' {
         user: {
             // Specifying that 'user' object must have a 'username' property of type string
             username: string
+
         } & DefaultSession['user']; // Merging with existing 'user' type from DefaultSession
     }
 
     interface Profile {
         username: string;
+    }
+
+    interface User {
+        username: string;
+        id: string;
     }
 }
 
