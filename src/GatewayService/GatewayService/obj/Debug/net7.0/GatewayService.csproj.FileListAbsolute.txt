@@ -35,3 +35,41 @@ C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayServ
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.pdb
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.genruntimeconfig.cache
 C:\Kennedy Projects\Self Development\kennedy_git\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\ref\GatewayService.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\appsettings.Development.json
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\appsettings.Docker.json
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\appsettings.json
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\GatewayService.exe
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\GatewayService.deps.json
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\GatewayService.runtimeconfig.json
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\GatewayService.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\GatewayService.pdb
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\System.IO.Hashing.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\bin\Debug\net7.0\Yarp.ReverseProxy.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.csproj.AssemblyReference.cache
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.AssemblyInfoInputs.cache
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.AssemblyInfo.cs
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.csproj.CoreCompileInputs.cache
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.MvcApplicationPartsAssemblyInfo.cache
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.sourcelink.json
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets.build.json
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets.development.json
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets\msbuild.GatewayService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets\msbuild.build.GatewayService.props
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GatewayService.props
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GatewayService.props
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\scopedcss\bundle\GatewayService.styles.css
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.csproj.CopyComplete
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\refint\GatewayService.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.pdb
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\GatewayService.genruntimeconfig.cache
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\GatewayService\GatewayService\obj\Debug\net7.0\ref\GatewayService.dll

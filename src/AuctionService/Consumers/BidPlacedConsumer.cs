@@ -17,7 +17,7 @@ namespace AuctionService.Consumers
         {
             Console.WriteLine("--> Consuming auction finished");
 
-            var auction = await dbContext.Auctions.FindAsync(context.Message.Id);
+            var auction = await dbContext.Auctions.FindAsync(Guid.Parse(context.Message.AuctionId));
 
             if (auction.CurrentHighBid == null
                 || context.Message.BidStatus.Contains("Accepted")

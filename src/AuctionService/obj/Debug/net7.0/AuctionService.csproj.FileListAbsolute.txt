@@ -106,3 +106,10 @@ C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\sr
 C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\AuctionService\obj\Debug\net7.0\AuctionService.pdb
 C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\AuctionService\obj\Debug\net7.0\AuctionService.genruntimeconfig.cache
 C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\AuctionService\obj\Debug\net7.0\ref\AuctionService.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\AuctionService\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\AuctionService\bin\Debug\net7.0\Grpc.AspNetCore.Server.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\AuctionService\bin\Debug\net7.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\AuctionService\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\AuctionService\bin\Debug\net7.0\Grpc.Net.Client.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\AuctionService\bin\Debug\net7.0\Grpc.Net.ClientFactory.dll
+C:\Kennedy Projects\Self Development\Micro-services and Cloud\car-auction-app\src\AuctionService\bin\Debug\net7.0\Grpc.Net.Common.dll
